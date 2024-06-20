@@ -1,7 +1,7 @@
 # Sd-ExpandMask
 ExpandMask Extention for Stablediffusion WebUI
 
-[img](https://i.imgur.com/mWE7wnd.png[/img])
+![img](https://i.imgur.com/mWE7wnd.png[/img])
 
 ### New Expand script
 
